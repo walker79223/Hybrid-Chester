@@ -1,13 +1,13 @@
 {
-  "name": "disspacex",
+  "name": "walker",
   "version": "3.7.1",
-  "description": "✈ Join Discord: https://discord.gg/",
+  "description": "✈ Join Discord: https://discord.gg/MeNj5uFrsQ",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Adivise",
-  "license": "MIT",
+  "author": "W47K3R",
+  "license": "",
   "dependencies": {
     "@discordjs/voice": "^0.7.5",
     "@distube/soundcloud": "^1.1.0",
