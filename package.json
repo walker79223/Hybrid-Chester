@@ -1,7 +1,7 @@
 {
   "name": "disspacex",
   "version": "3.7.1",
-  "description": "✈ Join Discord: https://discord.gg/SNG3dh3MbR",
+  "description": "✈ Join Discord: https://discord.gg/",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
